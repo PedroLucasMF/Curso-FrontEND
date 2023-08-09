@@ -20,5 +20,5 @@ neste documento está
 | git chekout -b "" | cria uma nova ramificação do pojeto e acessa ela
 |git branch "nome" | troca a ramificação
 | git merge "nome" | junta as informações de uma ramificação a que ves está atualmente
-
+| git branch rm "nome" | apaga uma branch
 
