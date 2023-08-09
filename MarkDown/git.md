@@ -1,5 +1,7 @@
 # Comandos do git
 
+neste documento está
+---
 
 | nome | descrição |
 | -- | -- |
@@ -14,3 +16,9 @@
 | | user.email configura seu email
 | git config --list | lista as configurações atuais do list
 | git log | exibe o historico de comissões
+| git branch -M main | renomeia a ramificação do projeto
+| git chekout -b "" | cria uma nova ramificação do pojeto e acessa ela
+|git branch "nome" | troca a ramificação
+| git merge "nome" | junta as informações de uma ramificação a que ves está atualmente
+
+
