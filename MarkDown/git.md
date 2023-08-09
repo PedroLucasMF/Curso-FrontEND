@@ -11,3 +11,17 @@
 
 - git add 
     - serve pra mandar um arquivo para a pasta git
+
+- git add .
+    - manda todos os arquivos para a pasta git
+
+- git commit -m ""
+    - confirma que a nova versão do arquivo estará no codigo final
+    - -m é um comando de mensagem a ser mostrada
+
+- git config --global  
+    - user.name configura seu nome de usuario
+    - user.email configura seu email
+
+- git config --list
+    -lista as configurações atuais do list
