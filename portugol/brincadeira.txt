@@ -1,0 +1,17 @@
+programa {
+  funcao inicio() {
+   inteiro n , soma = 0
+    
+    enquanto (n != 00){
+
+      escreva("digite um numero: ")
+      leia(n)
+      
+
+     soma += n
+
+    }
+    escreva("a soma é: ", soma)
+    
+  }
+}
