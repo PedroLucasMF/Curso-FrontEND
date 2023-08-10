@@ -21,6 +21,9 @@ neste documento está
 |git branch "nome" | troca a ramificação|
 | git merge "nome" | junta as informações de uma ramificação a que você está atualmente|
 | git branch -d  nome | apaga uma branch|
+| git log --pretty=format:"%h %s" --graph | mostra o grafico e password dos commit de forma abreviada
+| git log --pretty=oneline| mostra os commit em uma linha
+| git log -p -2 | mostra a diferença entre os commit 
 
 
 
