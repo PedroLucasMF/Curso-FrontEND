@@ -22,3 +22,5 @@ neste documento está
 | git merge "nome" | junta as informações de uma ramificação a que você está atualmente|
 | git branch -d  nome | apaga uma branch|
 
+
+
