@@ -24,6 +24,8 @@ neste documento está
 | git log --pretty=format:"%h %s" --graph | mostra o grafico e password dos commit de forma abreviada
 | git log --pretty=oneline| mostra os commit em uma linha
 | git log -p -2 | mostra a diferença entre os commit 
+| git remote add origin url | adcicona o portifolio para o git hubS
+| git origin rm origin| remove a url da origem
 
 
 
