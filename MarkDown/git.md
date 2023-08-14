@@ -21,11 +21,12 @@ neste documento está
 |git branch "nome" | troca a ramificação|
 | git merge "nome" | junta as informações de uma ramificação a que você está atualmente|
 | git branch -d  nome | apaga uma branch|
-| git log --pretty=format:"%h %s" --graph | mostra o grafico e password dos commit de forma abreviada
-| git log --pretty=oneline| mostra os commit em uma linha
-| git log -p -2 | mostra a diferença entre os commit 
-| git remote add origin url | adcicona o portifolio para o git hubS
-| git origin rm origin| remove a url da origem
+| git log --pretty=format:"%h %s" --graph | mostra o grafico e password dos commit de forma abreviada|
+| git log --pretty=oneline| mostra os commit em uma linha|
+| git log -p -2 | mostra a diferença entre os commit |
+| git remote add origin url | adcicona o portifolio para o git hubS|
+| git origin rm origin| remove a url da origem|
+| git pull | puxa o arquivo do github para o visual|
 
 
 
