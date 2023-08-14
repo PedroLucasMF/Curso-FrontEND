@@ -26,7 +26,7 @@ neste documento está
 | git log -p -2 | mostra a diferença entre os commit |
 | git remote add origin url | adcicona o portifolio para o git hubS|
 | git origin rm origin| remove a url da origem|
-| git pull | puxa o arquivo do github para o visual|
+
 
 
 
