@@ -27,6 +27,7 @@ neste documento está
 | git remote add origin url | adcicona o portifolio para o git hubS|
 | git origin rm origin| remove a url da origem|
 | git pull| puxa as coisas do git para o vs code
+| git clone | cria uma copia da pasta que voce tem no git|
 
 
 
