@@ -1,6 +1,8 @@
 # Dicionario front end
 
-Está Documentação apresentará diversos comandos de diferentes linguagens, com o Sumario abaixo vc poderá acessar de forma rapida e pratica diferentes linguagens e comandos
+Está Documentação apresentará diversos comandos, codigos e atividades basicas de diferentes linguagens tais como HTML, Css, JavaScript, MarkDown, dentre outras e com o Sumario abaixo vc poderá acessar de forma rapida e pratica diferentes linguagens e comandos
+
+Esté repositorio será atualizado constantemente com a adição de novas linguagens e seus respectivos comandos, codigos e atividades.
 
 ---
 
@@ -11,3 +13,4 @@ Está Documentação apresentará diversos comandos de diferentes linguagens, co
 - [Git](./MarkDown/git.md)
 - [atividades em Portugol](./Portugol)
 - [curriculo](./MarkDown/curriculo.md)
+- [comandos de HTML](./TabeladeComandosHTML.md)
