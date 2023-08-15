@@ -3,7 +3,7 @@
 neste documento está
 ---
 
-| nome | descrição |
+| comando| descrição |
 | -- | -- |
 | git init | inicia o monitoramento |
 | clear|  limpa a tela|
@@ -25,7 +25,7 @@ neste documento está
 | git log --pretty=oneline| mostra os commit em uma linha|
 | git log -p -2 | mostra a diferença entre os commit |
 | git remote add origin url | adcicona o portifolio para o git hubS|
-| git origin rm origin| remove a url da origem|
+| git remote rm origin| remove a url da origem|
 | git pull| puxa as coisas do git para o vs code
 | git clone | cria uma copia da pasta que voce tem no git|
 
