@@ -26,7 +26,7 @@
 - Introdução a Logica de Programação – Fundação Bradesco – 09/19 a 09/19
 - Introdução a Administração – Fundação Bradesco – 02/20 a 02/20
 - Implementando Banco de Dados – Fundação Bradesco – 07/20 a 07/20
-- Desenvolvimento Font-End - Senai - 06/2023
+- Desenvolvimento Font-End - Senai - 06/2023 a 10/23
 
 ## 03 - Idiomas
 ---
