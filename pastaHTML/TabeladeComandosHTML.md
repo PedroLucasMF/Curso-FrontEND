@@ -23,3 +23,18 @@
 | dfn | tag usada para dar uam descrição a palavras |
 | hr | cria uma linha horizontal no texto |
 
+
+## Criação de Tabelas
+
+| Comando | Descrição |
+| -- | -- |
+| table | cria a tabela|
+| th | cria um titulo para a coluna da tabela |
+| tr | da as informações da linha |
+| td | da á informação de qual celula será preenchida |
+| colspan | faz a celula ocupar 2 colunas |
+| rolspan | faz a celula ocupar 2 linhas |
+| thead | define o cabeçalho da tabela |
+| tbody | define o corpo da tabela |
+| tfoot | define o rodapé da tabela |
+| caption | cria um titulo acima da tabela
