@@ -13,4 +13,4 @@ Esté repositorio será atualizado constantemente com a adição de novas lingua
 - [Git](./MarkDown/git.md)
 - [atividades em Portugol](./Portugol)
 - [curriculo](./MarkDown/curriculo.md)
-- [comandos de HTML](./TabeladeComandosHTML.md)
+- [comandos de HTML](./MarkDown/TabeladeComandosHTML.md)

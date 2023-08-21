@@ -22,7 +22,10 @@
 | mark | tag de marcação de texto |
 | dfn | tag usada para dar uam descrição a palavras |
 | hr | cria uma linha horizontal no texto |
-
+| uppercase | transformar todas as letras em Maisculo |
+| lowercase | transforma todas as letras em minusculo |
+| captalize | transforma a primeira letra de todas palavras em maisculo |
+| none | não permite a transformação de texto
 
 ## Criação de Tabelas
 
@@ -37,4 +40,17 @@
 | thead | define o cabeçalho da tabela |
 | tbody | define o corpo da tabela |
 | tfoot | define o rodapé da tabela |
-| caption | cria um titulo acima da tabela
+| caption | cria um titulo acima da tabela |
+| colgroup | serve para selecionar varias tabelas |
+| col | dentro de colgroup use o col para indicar qual coluna você está usando |
+
+## Comandos diversos
+
+| Comando | Descrição |
+| -- | -- |
+| a | criação de links clicaveis |
+| href | serve para indicar qual o link que será usado |
+| img | insere imagens no projeto |
+| src | serve para achar a imagem que deve ser inserida |
+| lorem | gerá textos aleatorios |
+| style | cria uma tag css, dentro dela comandos css podem ser utilizados para estilização de tags desejadas |
