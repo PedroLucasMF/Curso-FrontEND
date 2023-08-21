@@ -28,6 +28,7 @@ neste documento está
 | git remote rm origin| remove a url da origem|
 | git pull| puxa as coisas do git para o vs code
 | git clone | cria uma copia da pasta que voce tem no git|
+| git push origin main | adiciona as coisas do vs ao git |
 
 
 
