@@ -1,5 +1,8 @@
 # Tabela de Comando CSS
 
+
+## Formatação basica
+
 | Comando | Descrição |
 | -- | -- |
 | font-family | muda a font do texto |
@@ -17,3 +20,13 @@
 | world-spacing | aumanta a distancia das palavras |
 | text-shadow | cria uma sombra pro text |
 | font-weight | muda a intensidade da escrita |
+
+## Medidas
+
+| absolutas | relativas |
+| -- | -- |
+| cm | em |
+| mm | ex |
+| pt | vx |
+| px | vh |
+| | % |
