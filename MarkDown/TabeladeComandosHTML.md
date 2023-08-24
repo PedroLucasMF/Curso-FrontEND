@@ -25,7 +25,9 @@
 | uppercase | transformar todas as letras em Maisculo |
 | lowercase | transforma todas as letras em minusculo |
 | captalize | transforma a primeira letra de todas palavras em maisculo |
-| none | não permite a transformação de texto
+| none | não permite a transformação de texto|
+| header | cria um cabeçalho |
+| footer | cria um rodapé |
 
 ## Criação de Tabelas
 
