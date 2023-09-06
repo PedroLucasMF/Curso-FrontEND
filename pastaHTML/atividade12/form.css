@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#Card{
+    margin-top: 10em;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: rgb(243, 231, 248);
+    padding: 20px;
+    align-items: start;
+    border: 3px solid rgb(0, 0, 0);
+}
+#botao{
+    padding: 2px;
+    border-radius: 1px;
+    border: 1px solid black;
+    
+}
+#cardbot{
+    padding-left: 50px;
+}
+
+.erro{
+    border: 1.5px solid red;
+}
+#box{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    padding-left: 30px;
+    margin: 0px;
+}
+label{
+    padding-left: 10px;
+}
+p{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#aviso{
+    font-size: 10px;
+    color: rgb(147, 124, 151);
+    text-align: start;
+}
+
+#senhaperdida{
+    text-decoration: underline;
+    color: rgb(90, 90, 243);
+}
