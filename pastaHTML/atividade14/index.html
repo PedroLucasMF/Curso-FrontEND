@@ -10,16 +10,17 @@
 <body>
     <header>
         <div id="cabeca">
-            <p>Home</p>
-            <p>About</p>
-            <p>Project</p>
-            <p>Contact</p>
+            <p class="opcoes">Home</p>
+            <p class="opcoes">About</p>
+            <p class="opcoes">Project</p>
+            <p class="opcoes">Contact</p>
         </div>
 
         <span  id="menu" class="material-symbols-outlined" onclick="display()">
             menu
             </span>
         
+        <span id="fechar" class="material-symbols-outlined" onclick="fechar()" style="display: none;">X</span>
     </header>
     <main>
         <ul id="lista">
@@ -83,8 +84,22 @@
 
     <script>
         const lista = document.getElementById('cabeca')
+        const men = document.getElementById('menu')
+        const x = document.getElementById('fechar')
+        const op = document.getElementsByClassName('.opcoes')
         function display(){
-            cabeca.style.display = "block"
+            lista.style.display = "flex"
+            lista.style.color = "Blue"
+            lista.style.width = "50%"
+            lista.style.height = "15vw"
+            x.style.display = "flex"
+            men.style.display = "none"
+        }
+
+        function fechar(){
+            lista.style.display = "none"
+            x.style.display = "none"
+            men.style.display = "flex"
         }
         
     </script>

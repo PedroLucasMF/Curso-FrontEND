@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#caixona{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.caixas{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-size: 30px;
+}
+
+button {
+    font-size: 30px;
+    padding: 10px;
+}
+
+li{
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
+}
+
+.lista1 .selected {
+    border: 3px solid green;
+    box-shadow: 0 0 3px green;
+}
+
+.lista2 .selected {
+    border: 3px solid red;
+    box-shadow: 0 0 3px red;
+}

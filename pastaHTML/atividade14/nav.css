@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 #menu{
-   display: flex;
+   display: none;
    justify-content: center;
    align-items: center;
    padding-left: 5px;
@@ -41,7 +41,7 @@ footer{
     width: 100%;
     color: white;
     padding-top: 20px;
-
+    
 }
 
 #pe{
@@ -53,8 +53,6 @@ footer{
 
 main {
     display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 50px;
 }
 #block{
@@ -66,11 +64,25 @@ main {
 #lista{
     padding: 5px;
 }
+#fechar{
+    display: none;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-left: 5px;
+}
 @media (max-width: 992px){
+    #menu{
+        display: flex;
+    }
+    
     #cabeca{
-        padding-top: 40px;
         flex-direction: column;
         display: none;
+        background-color: rgb(166, 181, 248)
+        
+       
+        
     }
     #span{
         display: flex;
@@ -81,7 +93,7 @@ main {
 }
 
 @media (min-width: 992px){
-    #menu{
-        display: none;
+    #cabeca {
+        display: flex;
     }
 }
