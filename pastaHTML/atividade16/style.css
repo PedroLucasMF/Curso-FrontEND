@@ -20,4 +20,29 @@ h1{
 
 div{
     border:  2px solid black;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#butaoetaref{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px;
+    border: none;
+}
+
+button{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#espaco{
+    padding: 20px;
+    margin: 5px;
+    
+}
+
+#taref{
+    padding: 5px;
 }

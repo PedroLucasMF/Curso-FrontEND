@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#login{
+    background-color: white;
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#art{
+    width: 80%;
+    height: 100%;
+}
+
+#principal{
+    display: flex;
+    flex-direction: row;
+}
+
+#logolog{
+    width: 300px;
+}
+
+.escreva{
+    padding: 3px;
+    margin: 1px;
+    background-color: rgb(243, 243, 243);
+    border-radius: 3px;
+}
+
+#checar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70%;
+
+}
+
+#boxcheck{
+    padding-right: 5px;
+}
+
+#icones{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 2px;
+}
+
+#face{
+    background-color: blue;
+    color: white;
+    width: 30%;
+    border-radius: 3px;
+    padding-left: 2px;
+    text-align: center;
+    
+}
+#goo{
+    background-color: rgb(212, 208, 208);
+    color: red;
+    width: 30%;
+    border-radius: 3px;
+    padding-right: 2px;
+    text-align: center;
+}
+#app{
+    background-color: black;
+    color: white;
+    width: 30%;
+    border-radius: 3px;
+    padding-left: 2px;
+    text-align: center;
+}
