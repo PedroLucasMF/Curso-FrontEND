@@ -1,0 +1,53 @@
+:root{
+    --dark:: black;
+    --light: white;
+    --mid: #2a2a2a;
+    --confim: #18c818;
+    --cancel: #bc0707;
+}
+
+.hide{
+    display: none !important;
+}
+
+
+.modal{
+    background-color: var(--light);
+    padding: 1.5em;
+    border-radius: 5px;
+    margin: 2.5em;
+
+}
+.modal  h1 {
+    text-align: center;
+}
+
+.modal p {
+    text-indent: 1.5em;
+    text-align: justify;
+
+}
+
+#confrma{
+    background-color: var(--confim);
+}
+
+#cancela{
+    background-color: var(--cancel);
+}
+
+.modal main {
+    margin: 1.5em 0;
+}
+
+.modal footer{
+    display: flex;
+    justify-content: flex-end;
+    gap: 1em;
+}
+
+
+.modal button:hover{
+    transform: scale(1.2);
+    border: 3px solid teal;
+}
